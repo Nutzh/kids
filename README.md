@@ -103,6 +103,7 @@ We chose Blade over plain HTML for several reasons:
    - Minimal overhead
    - Optimized for Laravel
 
+## 🛠️ Tech Stack
 - Laravel framework
 - Blade templating
 - MySQL database
