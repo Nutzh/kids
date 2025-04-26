@@ -1,2 +1,4 @@
 *
+!stories/
+!stories/**
 !.gitignore
