@@ -10,7 +10,7 @@
 6. `composer install`
 7. `move .env.example .env`
 8. `php artisan key:generate`
-9. `mysql -u root -p -e "CREATE DATABASE kids; USE kids; SOURCE kids.sql;"`
+9. `mysql -u root -e "CREATE DATABASE kids; USE kids; SOURCE kids.sql;"` 
 12. `php artisan storage:link`
 13. `php artisan serve`
 
